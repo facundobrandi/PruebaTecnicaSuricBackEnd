@@ -1,0 +1,14 @@
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\bin\Debug\net6.0\PruebaTecnicaConfig.deps.json
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\bin\Debug\net6.0\PruebaTecnicaConfig.runtimeconfig.json
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\bin\Debug\net6.0\PruebaTecnicaConfig.dll
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\bin\Debug\net6.0\PruebaTecnicaConfig.pdb
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\PruebaTecnicaConfig.csproj.AssemblyReference.cache
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\PruebaTecnicaConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\PruebaTecnicaConfig.AssemblyInfoInputs.cache
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\PruebaTecnicaConfig.AssemblyInfo.cs
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\PruebaTecnicaConfig.csproj.CoreCompileInputs.cache
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\PruebaTecnicaConfig.dll
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\refint\PruebaTecnicaConfig.dll
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\PruebaTecnicaConfig.pdb
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\PruebaTecnicaConfig.genruntimeconfig.cache
+C:\Users\facun\Desktop\Proyectos\PruebaTecnicaSuris\PruebaTecnicaBackEnd\PruebaTecnicaConfig\PruebaTecnicaConfig\obj\Debug\net6.0\ref\PruebaTecnicaConfig.dll
